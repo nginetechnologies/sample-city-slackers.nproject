@@ -1,0 +1,3854 @@
+{
+    "0014f30b-84f6-87c3-5c8f-7739874f5a63": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Line.mtli.nasset"
+    },
+    "0174a889-b0b8-207f-19f7-47868d459f41": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Exit.scene.nasset/Roadside Exit.mesh.nasset/Roadside Exit Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "02288278-54f2-ad10-5ff0-400ffeb7243d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_05.scene.nasset/Building 05.mesh.nasset/Building 05 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0251acdb-b432-adff-3cdc-152ebf624a9a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection_Path.scene.nasset/Road Intersection Path.mesh.nasset/Road Intersection Path Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "025c22dc-c59f-1e86-8f16-6825788abe7e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_04.scene.nasset/Building 04.mesh.nasset/Building 04 Brick.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0269f239-551f-9d15-d7ca-cf598ec04bc7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_012.scene.nasset/Suburb House 012.mesh.nasset/Suburb House 012 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "02915382-f0b5-b113-5c9b-f539184dbe41": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Curve_Barrier.scene.nasset/SM_Road_Slant_Curve_Barrier.mesh.nasset"
+    },
+    "04470104-5bef-8e8a-43b8-66ce4b94a8bd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Curved_Cross.scene.nasset/Light Curved Cross.mesh.nasset/Light Curved Cross Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "04f7a0c8-8c03-40ee-17a6-343c267e4f0c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_Curve_Barrier.scene.nasset/SM_Road_Slant_Curve_Barrier.scene.nasset"
+    },
+    "052fc373-872b-516b-a9ac-fcdecd10dd90": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Construction_Light.scene.nasset/Construction Light.mesh.nasset/Construction Light Cone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "07c05d17-d8ed-2710-89e2-5e4a72b94e3a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Split_Barrier.scene.nasset/SM_Road_Split_Barrier.mesh.nasset"
+    },
+    "08cee969-69df-ee1d-326d-59ad1e3c2b5c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_020.scene.nasset/SM_Suburb_House_020.scene.nasset"
+    },
+    "09ae90bf-7291-be13-5668-04d4987140d9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_019.scene.nasset/Suburb House 019.mesh.nasset/Suburb House 019 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0a7ec792-1a26-2be6-0c3c-230e4468d9a3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_010.scene.nasset/Suburb House 010.mesh.nasset/Suburb House 010 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0b5b6cb7-ed03-590b-4b0e-9999d10c1c48": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Pavement.mtli.nasset"
+    },
+    "0b728045-c5c3-4a88-8db6-891d20297716": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/City Slackers.scene.nasset"
+    },
+    "0bb69a49-5daa-852d-a100-2c7d5448fc0d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Fence_Large.scene.nasset/SM_Fence_Large.mesh.nasset"
+    },
+    "0bba28e5-a3dd-2546-c904-f173c418915e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_Small_02.scene.nasset/Building Small 02.mesh.nasset/Building Small 02 Roof.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0bf9ef88-5524-bd40-6f77-511afa21fca9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Square.scene.nasset/Light Square.mesh.nasset/Light Square Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0c082e00-1d61-4687-d1fc-940e6b0d1339": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_015.scene.nasset/Suburb House 015.mesh.nasset/Suburb House 015 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0c88c434-4ed6-6f17-92ad-7ff6a20aafce": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_011.scene.nasset/Suburb House 011.mesh.nasset/Suburb House 011 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0c947554-8934-fc30-f655-3457491519a5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_02.scene.nasset/Suburb House 02.mesh.nasset/Suburb House 02 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0cba701d-a7b5-dbeb-5143-0a99afc74e15": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat_High.scene.nasset/Road Slant Flat High.mesh.nasset/Road Slant Flat High asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0cbae929-f511-76a3-24e4-3ec7db22a526": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Driveway_Long.scene.nasset/Driveway Long.mesh.nasset/Driveway Long Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0cbd585a-fc8a-e633-daf0-318e6ad126ff": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_Flat.scene.nasset/SM_Road_Slant_Flat.scene.nasset"
+    },
+    "0de186d0-423b-d24b-9efe-682ee9cd36dd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Entry.scene.nasset/Roadside Entry.mesh.nasset/Roadside Entry asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0ee2e0c6-935a-e5c7-755b-30d588a20f55": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_Barrier.scene.nasset/SM_Road_Slant_Barrier.scene.nasset"
+    },
+    "0eeaa8f7-2992-3d1b-dccb-381b1f72fe20": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Pillar_Wide.scene.nasset/Pillar Wide.mesh.nasset/Pillar Wide Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0fa53d01-df0b-5521-88af-a65b2c0f6450": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_End.scene.nasset/Road End.mesh.nasset/Road End Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "10216155-668c-e747-64fb-e3aec3f4b487": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Tile_Slant_High.scene.nasset/SM_Tile_Slant_High.scene.nasset"
+    },
+    "109eb295-ca55-ad16-dcc4-9ae0dbe0a9de": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Light_Curved_Double.scene.nasset/Light Curved Double.mesh.nasset/Light Curved Double.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "11885ec6-40ce-b2b0-9f4b-8b69d5f1728b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Pillar_Wide.scene.nasset/Pillar Wide.mesh.nasset/Pillar Wide Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "11931a90-1fa8-cc8e-48d1-bada68da8056": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Curved.scene.nasset/Light Curved.mesh.nasset/Light Curved Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "127a3021-2408-92ce-daaa-c8f6b68e5960": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Tile_Slant_High.scene.nasset/SM_Tile_Slant_High.mesh.nasset"
+    },
+    "129f1197-f399-be2c-e161-70e24a162164": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Driveway_Short.scene.nasset/SM_Driveway_Short.scene.nasset"
+    },
+    "129fcc8f-f4a4-1b48-5275-bc832d7668df": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Straight.scene.nasset/Road Straight.mesh.nasset/Road Straight Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1309a47c-0e9e-ed54-45bb-e9a5e759c350": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House.scene.nasset/Suburb House.mesh.nasset/Suburb House Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "13a17cbb-7fb0-5556-e8da-070897a5b53d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Metal.mtli.nasset"
+    },
+    "13c30776-5ee5-8d30-0fac-1ec630a2c218": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Split.scene.nasset/Road Split.mesh.nasset/Road Split Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1446c653-6251-8724-23f0-7dc1f1a7d2e7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_High.scene.nasset/Road Slant High.mesh.nasset/Road Slant High.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "146bae06-b523-80c8-84aa-37700faeb4f0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_013.scene.nasset/SM_Suburb_House_013.scene.nasset"
+    },
+    "14704d1e-1ae3-43de-6d50-882f1aec758b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Crossroad_Path.scene.nasset/Road Crossroad Path.mesh.nasset/Road Crossroad Path.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "152881a5-93b0-8b02-278c-35d465e2a5b9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Building_01.scene.nasset/SM_Building_01.scene.nasset"
+    },
+    "155f3070-8319-a291-37f6-cb6c4f2ebf83": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossing.scene.nasset/Road Crossing.mesh.nasset/Road Crossing Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "156fa440-85c8-a36c-c76c-10155347ad56": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Path_Short.scene.nasset/Path Short.mesh.nasset/Path Short Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "15ace798-7dd5-1f74-c29a-d67f8db17c6b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_018.scene.nasset/Suburb House 018.mesh.nasset/Suburb House 018 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "162d80fe-2605-22f6-3fea-5f82df140784": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Square.scene.nasset/Road Square.mesh.nasset/Road Square.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "16545063-de54-dab8-896b-445ede01ffc4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_016.scene.nasset/Suburb House 016.mesh.nasset/Suburb House 016.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "165f5106-4dec-eb0b-1bef-b079b48f9244": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Curved_Cross.scene.nasset/Light Curved Cross.mesh.nasset/Light Curved Cross Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "166141bd-2810-d364-dad8-7e1f1e051c20": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_01.scene.nasset/Suburb House 01.mesh.nasset/Suburb House 01 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "16984342-06f5-bb31-ffca-6a0685ef87be": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Entry.scene.nasset/Roadside Entry.mesh.nasset/Roadside Entry Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "16abccb0-dac0-b2e2-5343-eb2a6e0640a0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Light_Curved_Cross.scene.nasset/SM_Light_Curved_Cross.scene.nasset"
+    },
+    "17daed0e-72eb-d8e8-0475-830bd7bdcb62": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_018.scene.nasset/SM_Suburb_House_018.scene.nasset"
+    },
+    "185fed3d-cb81-35ab-aa12-41f29114413f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Fence_Rectangle.scene.nasset/SM_Fence_Rectangle.mesh.nasset"
+    },
+    "187071bb-2108-965d-cbbc-ebef1ad2724a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Square_Barrier.scene.nasset/SM_Road_Square_Barrier.mesh.nasset"
+    },
+    "189f1fd1-9d11-2636-04c9-81e1c09f1263": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_05.scene.nasset/Suburb House 05.mesh.nasset/Suburb House 05 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "18dcaee1-f58c-d605-5d92-33478ef9d9fa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat_Curve.scene.nasset/Road Slant Flat Curve.mesh.nasset/Road Slant Flat Curve asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1931fad3-425b-a9cd-646c-c0b7708be6a2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_016.scene.nasset/SM_Suburb_House_016.scene.nasset"
+    },
+    "1938f9ef-b85a-ad6b-f66d-e204a4638af1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_016.scene.nasset/Suburb House 016.mesh.nasset/Suburb House 016 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1a2907d1-de98-9f76-25d3-44df70433fb9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Tile_Slant.scene.nasset/SM_Tile_Slant.mesh.nasset"
+    },
+    "1a2cf805-57f7-8b80-a2a4-f7f04d7078c2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_05.scene.nasset/Suburb House 05.mesh.nasset/Suburb House 05 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1aebc501-ef5d-0fc9-8cde-070faded3788": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Fence_Wide.scene.nasset/SM_Fence_Wide.scene.nasset"
+    },
+    "1b3e233d-4e9f-a52d-c712-4ded11dacef4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Driveway_Double.scene.nasset/Road Driveway Double.mesh.nasset/Road Driveway Double Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1ce47a69-bf0b-26ec-a66e-d847db503a07": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Crossroad_Barrier.scene.nasset/SM_Road_Crossroad_Barrier.scene.nasset"
+    },
+    "1d215d4b-e7f9-dbb8-254f-667546f3a41b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_011.scene.nasset/Suburb House 011.mesh.nasset/Suburb House 011 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1dfc10c0-fba3-f8f2-f33a-acc6b001d89a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_08.scene.nasset/Suburb House 08.mesh.nasset/Suburb House 08 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1e03cb99-e9ac-0e77-ffe2-1b1bc7ed3b2b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Roadside_Exit.scene.nasset/Roadside Exit.mesh.nasset/Roadside Exit.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1e063a57-ba8e-a5cd-5500-b132d755c428": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_04.scene.nasset/Suburb House 04.mesh.nasset/Suburb House 04 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1e4cd160-8c99-cc9b-bd5d-3b3d2aeacdee": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Barrier.scene.nasset/SM_Roadside_Barrier.mesh.nasset"
+    },
+    "1f4b7b57-f5bf-cf30-0468-3b2b44d708f0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside.scene.nasset/Roadside.mesh.nasset/Roadside asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1ffb4504-8d28-0dd5-0d76-a2dd500c17bf": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Construction_Light.scene.nasset/SM_Construction_Light.scene.nasset"
+    },
+    "2097fc9d-4bfa-a2df-a0f2-e475da74977a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Building_Small_02.scene.nasset/SM_Building_Small_02.scene.nasset"
+    },
+    "20ddc2dd-e674-940e-434d-7b99ab3f960b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_01.scene.nasset/Building 01.mesh.nasset/Building 01 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "20ec9a00-fb2c-5bfc-7885-29d43ed97a29": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_Curve.scene.nasset/SM_Road_Slant_Curve.scene.nasset"
+    },
+    "2103d041-ea1d-dfbf-9e83-7a4b714aba87": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend.scene.nasset/Road Bend.mesh.nasset/Road Bend Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2110ea05-0f81-538c-b75a-f6e79b3d1607": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Driveway_Double.scene.nasset/Road Driveway Double.mesh.nasset/Road Driveway Double.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2194a7ef-993f-5c6a-61a4-424d4dd2cd31": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Roof Houses.mtli.nasset"
+    },
+    "2313b420-7770-e2da-6229-2188075e001e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_01.scene.nasset/Suburb House 01.mesh.nasset/Suburb House 01 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "233db975-2a23-3ef5-18b8-3c8a5bc66634": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat_Curve.scene.nasset/Road Slant Flat Curve.mesh.nasset/Road Slant Flat Curve Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "23827b3d-1cde-07ea-1536-eeeebbcd3a83": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Driveway_Double.scene.nasset/Road Driveway Double.mesh.nasset/Road Driveway Double Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "23dfc51e-4bde-6dab-5e79-43af71ab6b8d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_Small_01.scene.nasset/Building Small 01.mesh.nasset/Building Small 01 Brick Trim.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "24625e0d-4e94-7bd5-c9c4-2cecec130f1a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Curve_Intersection.scene.nasset/Road Curve Intersection.mesh.nasset/Road Curve Intersection.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2487ca42-e9d4-7df6-49aa-e267c17044b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Path_Tiles_Long.scene.nasset/Path Tiles Long.mesh.nasset/Path Tiles Long Pavement 02.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "24d00fcc-6b73-8536-f169-8b07b15bb123": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Barrier.scene.nasset/SM_Road_Slant_Barrier.mesh.nasset"
+    },
+    "25d7e5dd-f25d-61f2-0e06-65f78f333411": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Split.scene.nasset/Road Split.mesh.nasset/Road Split Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "26758657-c307-760b-36f7-892abab936cb": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Curve_Pavement.scene.nasset/SM_Road_Curve_Pavement.scene.nasset"
+    },
+    "26a26d75-ef1f-2ae2-04d7-4761a259fb15": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad_Line.scene.nasset/Road Crossroad Line.mesh.nasset/Road Crossroad Line Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "27691324-2720-7768-a57f-f6cf7b6e48b1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Building_01.scene.nasset/Building 01.mesh.nasset/Building 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2887e531-60ad-3f5f-b304-0273afeae6bd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve.scene.nasset/Road Curve.mesh.nasset/Road Curve asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "28ba5204-1035-1549-0b97-0d866069b90d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Path_Short.scene.nasset/Path Short.mesh.nasset/Path Short.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2909eb34-f894-c1f0-29f9-ed552f5e412c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Door.mtli.nasset"
+    },
+    "299fd4dc-c935-1ac1-32be-920f44966668": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Curve.scene.nasset/Road Slant Curve.mesh.nasset/Road Slant Curve Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "29fd417a-a6b4-957e-413b-8dff8b2cef78": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_Flat_Curve.scene.nasset/SM_Road_Slant_Flat_Curve.scene.nasset"
+    },
+    "2a2d23f3-176b-f070-72d6-95b14800bc53": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Roadside_Entry.scene.nasset/SM_Roadside_Entry.scene.nasset"
+    },
+    "2acd288b-ef73-e84b-30c7-a001ac45a419": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad.scene.nasset/Road Crossroad.mesh.nasset/Road Crossroad Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2b995e21-11fc-e3ed-082d-18b5dae2fedd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_010.scene.nasset/Suburb House 010.mesh.nasset/Suburb House 010 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2bf7d1ff-5690-c8d0-3310-518953ba2df1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Light_Square_Cross.scene.nasset/Light Square Cross.mesh.nasset/Light Square Cross.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2c4a1342-2a3e-d2bf-1ee7-b03efa9f40e1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_01.scene.nasset/Suburb House 01.mesh.nasset/Suburb House 01 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2d3c8b33-4847-0d3d-5a3b-09c74cb18749": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Light_Square.scene.nasset/SM_Light_Square.scene.nasset"
+    },
+    "2d43f1f0-562c-5792-a9a1-7f88b4237859": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_04.scene.nasset/Suburb House 04.mesh.nasset/Suburb House 04 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2e47cf60-353a-fc19-c73b-83a025ca9f0d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_018.scene.nasset/Suburb House 018.mesh.nasset/Suburb House 018 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2e72edac-3c85-9ae2-9344-da14013a9e40": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_Small_02.scene.nasset/Building Small 02.mesh.nasset/Building Small 02 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3020e54d-4557-2757-0951-52a8ebe7dbe8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve_Pavement.scene.nasset/Road Curve Pavement.mesh.nasset/Road Curve Pavement asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3091fae7-8253-8d1e-ab61-50a0e53a9ec3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad_Path.scene.nasset/Road Crossroad Path.mesh.nasset/Road Crossroad Path Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "30b923b7-feda-37a2-ed6d-6bdfbb90fc4c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Construction_Pylon.scene.nasset/Construction Pylon.mesh.nasset/Construction Pylon.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "30f4b6a9-21f2-90ed-2974-c06d441cea31": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_012.scene.nasset/Suburb House 012.mesh.nasset/Suburb House 012 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "319626c3-bf1c-4e4b-e34d-8446d567ae8e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_019.scene.nasset/Suburb House 019.mesh.nasset/Suburb House 019 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "31c7ff00-2c6f-1ae3-2403-f411d2cfa358": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Square.scene.nasset/Road Square.mesh.nasset/Road Square Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "31f097ee-6d0f-fe66-0595-43687a39a435": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_020.scene.nasset/Suburb House 020.mesh.nasset/Suburb House 020 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "330e5cbd-f300-a369-52a9-f3d1fc984fef": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Tree.scene.nasset/Tree.mesh.nasset/Tree Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "331eaa63-454d-d42f-7aca-e90af2585949": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_017.scene.nasset/Suburb House 017.mesh.nasset/Suburb House 017 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "34c36c5a-7b54-607d-db0e-593651333f9b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_High.scene.nasset/Road Slant High.mesh.nasset/Road Slant High Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "34e0d2f2-6c55-fd55-279a-7aa8bf02c1f0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Bridge.scene.nasset/SM_Road_Bridge.scene.nasset"
+    },
+    "3526b629-eaed-7c46-a898-c6b3f6769a80": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside.scene.nasset/Roadside.mesh.nasset/Roadside Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "358d85c1-29e0-2a4e-073f-327a2a4ee5ac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_02.scene.nasset/Building 02.mesh.nasset/Building 02 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "359c127f-12dd-07d1-0a00-24d11fdece18": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat.scene.nasset/Road Slant Flat.mesh.nasset/Road Slant Flat Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "35e8a09f-6392-9410-e72e-7bac96b0accc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_012.scene.nasset/Suburb House 012.mesh.nasset/Suburb House 012 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "36a23a39-8be0-0241-9c1e-b2592e1c76f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_08.scene.nasset/Suburb House 08.mesh.nasset/Suburb House 08 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "36df76f7-cc55-3ce9-377b-c85e1851b864": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_High.scene.nasset/Road Slant High.mesh.nasset/Road Slant High Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3712878b-df37-88b5-26fa-d1589d4e7386": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_Flat_Curve.scene.nasset/Road Slant Flat Curve.mesh.nasset/Road Slant Flat Curve.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3726a3f2-8fd8-8004-c363-d2cc66b604fc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_Small_01.scene.nasset/Building Small 01.mesh.nasset/Building Small 01 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "37e703e0-be17-46cb-5827-d3ec99cd1b02": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House.scene.nasset/Suburb House.mesh.nasset/Suburb House Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "38c829ff-4810-0242-d168-b47bfdd55e4f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_03.scene.nasset/Suburb House 03.mesh.nasset/Suburb House 03 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "38fe12a3-d249-0587-355f-8b53d53c75d5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Default.mtli.nasset"
+    },
+    "39989349-6893-a20b-d684-eca3bf583080": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_End.scene.nasset/Road End.mesh.nasset/Road End Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "39e0cf52-804d-b48a-c1b8-793037f0d492": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Straight_Half.scene.nasset/Road Straight Half.mesh.nasset/Road Straight Half Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3aa4aeb4-be9d-adeb-f98e-19f574b9818c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant.scene.nasset/Road Slant.mesh.nasset/Road Slant.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3ab745aa-6a7d-608d-321a-60e00705f78f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Mindkraft_EnviroSpecular.tex.nasset"
+    },
+    "3b3e3c91-b7f4-f6f7-eb34-035d98a73700": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_019.scene.nasset/Suburb House 019.mesh.nasset/Suburb House 019 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3b3e84c1-ef6c-8492-5b2d-eb237775fb69": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_020.scene.nasset/Suburb House 020.mesh.nasset/Suburb House 020.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3b82ef61-1dcd-4bbd-acc3-bd147f647d7e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Roundabout_Barrier.scene.nasset/SM_Road_Roundabout_Barrier.scene.nasset"
+    },
+    "3bf39916-f820-65bb-2065-e643360b5adc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend_Sidewalk.scene.nasset/Road Bend Sidewalk.mesh.nasset/Road Bend Sidewalk asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3c63ef96-d8e6-954a-3a8e-3c2745cdb151": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_018.scene.nasset/Suburb House 018.mesh.nasset/Suburb House 018.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3cb59c38-1321-bcd6-80cc-cbbf4d36b813": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend_Square.scene.nasset/Road Bend Square.mesh.nasset/Road Bend Square Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3da716ba-9954-5d94-ef0f-f74911fcda4b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat.scene.nasset/Road Slant Flat.mesh.nasset/Road Slant Flat Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3e7103db-3eb4-1ec2-c5e9-fb515f97527d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Asphalt.mtli.nasset"
+    },
+    "3f531364-2aa3-df50-5ff9-c67bef8958b9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_High_Barrier.scene.nasset/SM_Road_Slant_High_Barrier.scene.nasset"
+    },
+    "3f8e3fa9-2fe0-e7d4-ce3e-3afc9a7e70a5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_02.scene.nasset/Building 02.mesh.nasset/Building 02 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "406b87e2-a4b3-3c6b-3911-6f5554fadff3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_09.scene.nasset/SM_Suburb_House_09.scene.nasset"
+    },
+    "425898e1-2802-68d8-1116-f4544ff035af": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant.scene.nasset/Road Slant.mesh.nasset/Road Slant Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "42df64b3-dbf5-ab9d-43f0-1d1d37993587": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_Small_01.scene.nasset/Building Small 01.mesh.nasset/Building Small 01 Front.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "45713bb8-dc4a-e3c9-572f-3482ead90728": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend_Square.scene.nasset/Road Bend Square.mesh.nasset/Road Bend Square Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "45abb6b6-b296-20a5-8014-6766c249acd0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Roundabout.scene.nasset/Road Roundabout.mesh.nasset/Road Roundabout.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "45f51034-e5c3-706b-491c-c6218625f5ea": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Roundabout.scene.nasset/Road Roundabout.mesh.nasset/Road Roundabout asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "47906183-8b6e-4298-1c9e-0255787f96cf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Square.scene.nasset/Light Square.mesh.nasset/Light Square Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "48fc5ddc-2788-7bcf-c6a0-4cf80ef80f03": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Bend_Square.scene.nasset/Road Bend Square.mesh.nasset/Road Bend Square.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "49139015-ea3b-56cc-1634-b352fa8b8c80": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Curved_Double.scene.nasset/Light Curved Double.mesh.nasset/Light Curved Double Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "49213b41-a18d-111e-d8d7-389df47e2bb1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_01.scene.nasset/Suburb House 01.mesh.nasset/Suburb House 01 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4996e3cb-08c4-64fd-1692-c184bb3fcf2a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Split.scene.nasset/SM_Road_Split.scene.nasset"
+    },
+    "49fa00ae-c6d3-01c6-cb5d-339ecaa8631d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Crossroad_Line.scene.nasset/SM_Road_Crossroad_Line.scene.nasset"
+    },
+    "4a653174-2da8-1c2f-5666-0831691c1de3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_01.scene.nasset/Suburb House 01.mesh.nasset/Suburb House 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4aa2db7a-d753-f265-2cb4-2b31132957ea": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Path_Long.scene.nasset/Path Long.mesh.nasset/Path Long Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4b2314aa-f257-37ac-6967-bc0cdd3b375e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Construction_Pylon.scene.nasset/SM_Construction_Pylon.scene.nasset"
+    },
+    "4b78969c-82cb-b510-6568-b558f30784da": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad_Path.scene.nasset/Road Crossroad Path.mesh.nasset/Road Crossroad Path asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4c0fbf39-4292-ad61-2e3d-f00471f8be5e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_03.scene.nasset/Suburb House 03.mesh.nasset/Suburb House 03 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4cded088-4a87-1e1c-5ddd-918ef0b6a517": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Fence_Wide.scene.nasset/SM_Fence_Wide.mesh.nasset"
+    },
+    "4d11ae19-b611-4d3e-a134-173538e900b2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Straight.scene.nasset/Road Straight.mesh.nasset/Road Straight asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4d334d9e-47a7-99b6-6c11-1318cef40d96": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad_Path.scene.nasset/Road Crossroad Path.mesh.nasset/Road Crossroad Path Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4d66c8dc-1ec8-8e9c-77da-318bb660543c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Tile_Low.scene.nasset/SM_Tile_Low.mesh.nasset"
+    },
+    "4de71e4f-c573-d9d5-4e3e-2d8219eeee6e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Construction_Light.scene.nasset/Construction Light.mesh.nasset/Construction Light asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4f250fff-3a21-2565-b0ec-9f1a8348425f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Entry.scene.nasset/Roadside Entry.mesh.nasset/Roadside Entry Line-2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4f6527e9-2bcc-f08f-12f3-12f841b57fe0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Path_Tiles_Short.scene.nasset/Path Tiles Short.mesh.nasset/Path Tiles Short.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4fad2b8c-38ff-56b4-5589-cabe0ae4c83b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_05.scene.nasset/Suburb House 05.mesh.nasset/Suburb House 05 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "500fd7bf-3892-1d99-747f-f1d999c4d207": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Fence_Small.scene.nasset/SM_Fence_Small.mesh.nasset"
+    },
+    "505a625f-ed6e-9630-0afc-afca1eeefdc7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Roundabout_Barrier.scene.nasset/SM_Road_Roundabout_Barrier.mesh.nasset"
+    },
+    "50f52359-ac2f-8ee7-c413-9fdf51171eb4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend_Square.scene.nasset/Road Bend Square.mesh.nasset/Road Bend Square Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "51b98c2b-0710-85c5-7547-915e19c11650": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House.scene.nasset/Suburb House.mesh.nasset/Suburb House.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "524b43fa-12a2-8693-039e-775c2b090586": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_03.scene.nasset/Suburb House 03.mesh.nasset/Suburb House 03 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "52f0eb42-3142-8a1e-3fda-893cbbc701cb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Driveway_Single.scene.nasset/Road Driveway Single.mesh.nasset/Road Driveway Single asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5311903b-5ab9-7e44-f6f6-7d7a50c4ca71": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_018.scene.nasset/Suburb House 018.mesh.nasset/Suburb House 018 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "536a24ac-a925-7a8f-3091-8fc38a972379": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Straight_Half_Barrier.scene.nasset/SM_Road_Straight_Half_Barrier.scene.nasset"
+    },
+    "53b47fc9-2613-a52c-9392-3807285605de": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_011.scene.nasset/Suburb House 011.mesh.nasset/Suburb House 011 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "53f877ea-4733-2f23-7c4d-0e3d8a08513f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Fence_Short.scene.nasset/SM_Fence_Short.mesh.nasset"
+    },
+    "5417e079-f1a2-ab40-79be-08acf614ebe7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_09.scene.nasset/Suburb House 09.mesh.nasset/Suburb House 09.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "55128269-0b94-1b9f-0dc0-4654302bb429": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_07.scene.nasset/Suburb House 07.mesh.nasset/Suburb House 07.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5554504b-4cd6-0aad-9d36-0a994d572bb3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_011.scene.nasset/Suburb House 011.mesh.nasset/Suburb House 011.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "55675f84-3b47-c569-7be3-668fe1733ba3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Construction_Light.scene.nasset/Construction Light.mesh.nasset/Construction Light Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "56151715-89b1-817d-aca6-db498ca6e41f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_011.scene.nasset/Suburb House 011.mesh.nasset/Suburb House 011 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "563a2a11-ebfd-97ab-7935-9d7582316cba": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Light_Square_Cross.scene.nasset/SM_Light_Square_Cross.scene.nasset"
+    },
+    "566b7088-894e-8afe-871d-4eeabe081c33": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Building_02.scene.nasset/Building 02.mesh.nasset/Building 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "569c73f6-eb20-c46b-4eb0-924f7744bbbf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve_Barrier.scene.nasset/SM_Road_Curve_Barrier.mesh.nasset"
+    },
+    "56bc1d5f-fc17-a825-68a5-8f537bf1244d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_010.scene.nasset/Suburb House 010.mesh.nasset/Suburb House 010.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "574e6e69-9dd9-8da4-0a7a-7e2ba8c33688": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Light_Curved.scene.nasset/Light Curved.mesh.nasset/Light Curved.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5773cdad-b62f-a1c5-827e-a6b5cf6cf509": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend.scene.nasset/Road Bend.mesh.nasset/Road Bend Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "58083cd5-cafa-84c6-128d-15475274444f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_016.scene.nasset/Suburb House 016.mesh.nasset/Suburb House 016 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "58170ba3-5b24-108d-00ab-5b6c6fe80988": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad_Barrier.scene.nasset/SM_Road_Crossroad_Barrier.mesh.nasset"
+    },
+    "5879f513-e5f5-9917-24fb-e0e9faa09933": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Fence_Medium.scene.nasset/SM_Fence_Medium.scene.nasset"
+    },
+    "5943273d-fcd5-1032-0358-c9b20136c612": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Pillar_Wide.scene.nasset/Pillar Wide.mesh.nasset/Pillar Wide.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5a39d335-7c50-cade-45cf-100320884f01": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Square_Cross.scene.nasset/Light Square Cross.mesh.nasset/Light Square Cross Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5a57e656-911d-2d2c-05ff-602c04c91093": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Construction_Light.scene.nasset/Construction Light.mesh.nasset/Construction Light.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5aa2e305-7260-b05f-204c-1c0b19fdd15a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend_Sidewalk.scene.nasset/Road Bend Sidewalk.mesh.nasset/Road Bend Sidewalk Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5acfdd8a-5147-b3cd-855c-b69b86c79fec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend_Barrier.scene.nasset/SM_Road_Bend_Barrier.mesh.nasset"
+    },
+    "5af909eb-ea7c-b81e-ddec-a301dcccb9cd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Straight_Barrier_End.scene.nasset/SM_Road_Straight_Barrier_End.scene.nasset"
+    },
+    "5b5669a9-5544-a8af-331d-35249c14db04": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_05.scene.nasset/Building 05.mesh.nasset/Building 05 Brick.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5b8a593c-c495-a815-4931-6192f7144806": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Exit_Barrier.scene.nasset/SM_Roadside_Exit_Barrier.mesh.nasset"
+    },
+    "5be166ab-763b-df81-d48e-8ddcaa53afa5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Crossroad_Line.scene.nasset/Road Crossroad Line.mesh.nasset/Road Crossroad Line.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5c57f34c-b27a-9883-6e06-393d1d798cff": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Square.scene.nasset/SM_Road_Square.scene.nasset"
+    },
+    "5cd0edd9-7676-674b-f358-2bf81d74051d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Roadside.scene.nasset/SM_Roadside.scene.nasset"
+    },
+    "5d449e36-bfae-3b20-7915-0b1cbff02525": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant.scene.nasset/SM_Road_Slant.scene.nasset"
+    },
+    "5d72be3c-37f2-5fe6-7d3c-82eea4dd42f0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Bend.scene.nasset/Road Bend.mesh.nasset/Road Bend.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5d819d61-59fc-8d42-011e-60557b12131e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_020.scene.nasset/Suburb House 020.mesh.nasset/Suburb House 020 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5e563b41-973a-5f4d-bc5d-ce71f5d13625": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_010.scene.nasset/Suburb House 010.mesh.nasset/Suburb House 010 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5f170a44-095b-8610-4c56-223333ab1e4b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_020.scene.nasset/Suburb House 020.mesh.nasset/Suburb House 020 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5fc1ae2d-175e-4b74-c8ac-8fd3e78ddff1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Roof.mtli.nasset"
+    },
+    "6061746f-9004-5c7a-bebe-3d1f0e711ad7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Path_Tiles_Long.scene.nasset/Path Tiles Long.mesh.nasset/Path Tiles Long Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "60d6cbb2-17e8-8e7f-84fa-662a2c75fb85": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Driveway_Single_Barrier.scene.nasset/SM_Road_Driveway_Single_Barrier.mesh.nasset"
+    },
+    "62a39911-da3c-2f3c-25b2-0d91054f3679": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Pillar.scene.nasset/Pillar.mesh.nasset/Pillar Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "62ef4749-b2a5-c0e3-b4de-a6c4fd4159e4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Tile_Low.scene.nasset/SM_Tile_Low.scene.nasset"
+    },
+    "63677fac-b442-c82f-2648-8e150faefc55": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Bend.scene.nasset/SM_Road_Bend.scene.nasset"
+    },
+    "63a0acbf-541f-15e0-6526-2817a25cbcdc": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Driveway_Long.scene.nasset/SM_Driveway_Long.scene.nasset"
+    },
+    "63b28c64-59f4-292d-8aa5-2d770727020d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection_Line.scene.nasset/Road Intersection Line.mesh.nasset/Road Intersection Line Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "63e3a9c9-ea62-f29c-cf23-9a40cc8cc39c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_014.scene.nasset/Suburb House 014.mesh.nasset/Suburb House 014 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6493889a-6594-e221-968c-dc320f9cce21": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_High.scene.nasset/Road Slant High.mesh.nasset/Road Slant High asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6504336c-33b7-19b7-d5f3-55beb86d99e0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_015.scene.nasset/Suburb House 015.mesh.nasset/Suburb House 015 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6504576d-c677-21ac-51f3-b814d684b871": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Building_02.scene.nasset/SM_Building_02.scene.nasset"
+    },
+    "6538575f-fd34-a5d6-dd51-9522de390718": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Curved_Double.scene.nasset/Light Curved Double.mesh.nasset/Light Curved Double Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "65628658-b27e-dffe-6bb1-1973bde75503": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Tile_High.scene.nasset/SM_Tile_High.mesh.nasset"
+    },
+    "65f1f5bb-a4f4-a76a-c38f-ef421351e076": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_012.scene.nasset/SM_Suburb_House_012.scene.nasset"
+    },
+    "65fa7823-9127-3460-ebbc-80356f7d65fe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve.scene.nasset/Road Curve.mesh.nasset/Road Curve Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "66417a68-982f-152d-3019-d5252b3da297": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_019.scene.nasset/SM_Suburb_House_019.scene.nasset"
+    },
+    "666f4893-6775-145f-5b3d-98c123e4a52f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_014.scene.nasset/Suburb House 014.mesh.nasset/Suburb House 014 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "66abdaac-b282-2b54-e98b-ec3cc87adeff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Driveway_Short.scene.nasset/Driveway Short.mesh.nasset/Driveway Short.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6727e17e-b561-c21e-d75f-c7de274711d4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_04.scene.nasset/SM_Suburb_House_04.scene.nasset"
+    },
+    "6730d19b-56bc-5f55-1b05-f96561c053fd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Driveway_Double.scene.nasset/Road Driveway Double.mesh.nasset/Road Driveway Double Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "67735133-ecd3-6154-cf15-1cb7d3842739": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Driveway_Short.scene.nasset/Driveway Short.mesh.nasset/Driveway Short Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6829a82e-6207-66e9-22ad-2878d8e4a0ce": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Curved.scene.nasset/Light Curved.mesh.nasset/Light Curved Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6869f68b-7279-5a7a-805f-f1c65955f3c8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad_Line.scene.nasset/Road Crossroad Line.mesh.nasset/Road Crossroad Line asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "68eb900c-7e0c-e15d-be86-0291a3f77a18": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_013.scene.nasset/Suburb House 013.mesh.nasset/Suburb House 013 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "68ef102b-fb7b-942c-11bf-6a1ded8e4b2a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Roadside_Exit.scene.nasset/SM_Roadside_Exit.scene.nasset"
+    },
+    "694b3937-dd01-f78b-d174-03fa279473d3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Crossroad.scene.nasset/Road Crossroad.mesh.nasset/Road Crossroad.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "69f3bf53-5be7-792f-80d5-b6110b1fc93b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Intersection_Barrier.scene.nasset/SM_Road_Intersection_Barrier.scene.nasset"
+    },
+    "6a4d5a90-03b1-ab7c-de1f-432eaff6ddc9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Path_Tiles_Long.scene.nasset/SM_Path_Tiles_Long.scene.nasset"
+    },
+    "6a606a8c-2a43-f49c-ca34-003dcccddc80": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_Flat_High.scene.nasset/SM_Road_Slant_Flat_High.scene.nasset"
+    },
+    "6a692c8d-337c-d716-3bb3-3da457817e2c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection.scene.nasset/Road Intersection.mesh.nasset/Road Intersection Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6a8e1bb6-f8d0-5adf-b6c6-d8916cfe937c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Split.scene.nasset/Road Split.mesh.nasset/Road Split asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6acf023d-7259-3a19-ca4d-43a5a343a637": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_07.scene.nasset/SM_Suburb_House_07.scene.nasset"
+    },
+    "6ae32bf3-19ed-7e14-c147-ac754dec1d63": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_013.scene.nasset/Suburb House 013.mesh.nasset/Suburb House 013 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6ae74d0f-126c-735a-dcf3-205f15d8d881": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Construction_Light.scene.nasset/Construction Light.mesh.nasset/Construction Light Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6b657b6c-dcdd-0a1c-492a-fe01874ff3bd": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Light_Curved_Double.scene.nasset/SM_Light_Curved_Double.scene.nasset"
+    },
+    "6bd8e261-5447-4efa-6f4c-a6c0dfeaa727": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Siding.mtli.nasset"
+    },
+    "6c55f7cb-dadf-381d-631d-57196435cd4f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_08.scene.nasset/Suburb House 08.mesh.nasset/Suburb House 08.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6c8a38b6-5bb3-d334-778e-89fcd182eb79": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_01.scene.nasset/Building 01.mesh.nasset/Building 01 Brick Trim.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6c99f1b5-658f-26aa-f2c5-e7fcfb74bd87": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Bend_Square_Barrier.scene.nasset/SM_Road_Bend_Square_Barrier.scene.nasset"
+    },
+    "6ca5b92b-b076-467f-43ac-36f8ebe4ab7e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection_Line.scene.nasset/Road Intersection Line.mesh.nasset/Road Intersection Line asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6cd20150-e58b-e7e1-bdc9-a646cb788ee5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Building_04.scene.nasset/Building 04.mesh.nasset/Building 04.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6d3403a6-d435-bc81-7c13-d71d23528744": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Curved_Double.scene.nasset/Light Curved Double.mesh.nasset/Light Curved Double Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6dec919e-e6d1-23b7-162d-74e976dd15a1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Front.mtli.nasset"
+    },
+    "6eadb950-4825-493a-94d8-12e19cb2b02d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve_Intersection.scene.nasset/Road Curve Intersection.mesh.nasset/Road Curve Intersection Default-2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6eafcb52-7e3f-a66f-07fd-e7e209259287": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Building_Small_02.scene.nasset/Building Small 02.mesh.nasset/Building Small 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
+        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
+        "path": "Assets/Physical Materials/Box.physmat.nasset"
+    },
+    "6fbfca97-ad51-5090-edd5-1cacbc005a80": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_012.scene.nasset/Suburb House 012.mesh.nasset/Suburb House 012.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7118bc2f-6e98-26b5-159f-abee1b9e039a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_010.scene.nasset/Suburb House 010.mesh.nasset/Suburb House 010 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "71681518-9c9d-a128-eed6-c7bfb34e2c63": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_High_Barrier.scene.nasset/SM_Road_Slant_High_Barrier.mesh.nasset"
+    },
+    "71ed2900-d4cc-40b4-4c63-3efb626e072c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection_Line.scene.nasset/Road Intersection Line.mesh.nasset/Road Intersection Line Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7221e0c6-820a-796e-74d8-89bb4d528969": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Glass.mtli.nasset"
+    },
+    "7312f7a8-103b-c6aa-0420-3b34eee633df": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_02.scene.nasset/Suburb House 02.mesh.nasset/Suburb House 02 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "741ec9eb-802e-8624-00bc-40fdea4cd0db": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Square_Double.scene.nasset/Light Square Double.mesh.nasset/Light Square Double Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "74eb6116-e63a-d83c-472d-06b3c31a4c83": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Bend_Square.scene.nasset/SM_Road_Bend_Square.scene.nasset"
+    },
+    "78080fbf-d823-09cb-7e00-bf03142e80e0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_019.scene.nasset/Suburb House 019.mesh.nasset/Suburb House 019 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7867d555-c2c7-cce4-db3d-aaf87bca43c3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_04.scene.nasset/Suburb House 04.mesh.nasset/Suburb House 04 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "78f581a6-e493-3446-2889-7399364ae846": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bridge.scene.nasset/Road Bridge.mesh.nasset/Road Bridge asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7979b6ae-c221-3f9f-04d4-7e9b2e848abd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_03.scene.nasset/Suburb House 03.mesh.nasset/Suburb House 03 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "79d1bc39-6f9c-9609-5ed3-a2b28fb74c44": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection_Path.scene.nasset/Road Intersection Path.mesh.nasset/Road Intersection Path Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7a614336-f640-b44e-f8d1-95ef89683b78": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_End.scene.nasset/Road End.mesh.nasset/Road End Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7afa3003-29d4-77ab-a59a-c3297c9413b7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_015.scene.nasset/Suburb House 015.mesh.nasset/Suburb House 015 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7b2ddc71-d930-8c94-3bbb-785432ae0bea": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_06.scene.nasset/Suburb House 06.mesh.nasset/Suburb House 06 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7c5f17c2-b9d0-a5e8-eee4-2b020367bc96": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Fence_Short.scene.nasset/SM_Fence_Short.scene.nasset"
+    },
+    "7d0b9db8-0049-0ea5-51bc-679c057dbb8f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Construction_Barrier.scene.nasset/SM_Construction_Barrier.scene.nasset"
+    },
+    "7d1473f1-e321-7137-679a-aaff1aabfa0c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve_Pavement.scene.nasset/Road Curve Pavement.mesh.nasset/Road Curve Pavement Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7d3b2be4-57a5-1682-0088-9a5329656acc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_04.scene.nasset/Suburb House 04.mesh.nasset/Suburb House 04.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7d6194fa-7233-3910-6b03-d3faed8f3097": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Driveway_Double.scene.nasset/Road Driveway Double.mesh.nasset/Road Driveway Double asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7d9b6eb2-49ff-7fba-bbcc-a7baf201b0a3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_016.scene.nasset/Suburb House 016.mesh.nasset/Suburb House 016 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7e0ea551-da8b-bc70-7a29-7c66e0147b37": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_01.scene.nasset/Building 01.mesh.nasset/Building 01 Brick.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7e6584af-4bd7-2648-646f-4f445f2e154f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_01.scene.nasset/Suburb House 01.mesh.nasset/Suburb House 01 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7e8ec648-23bf-04cb-92c3-658753334c80": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_018.scene.nasset/Suburb House 018.mesh.nasset/Suburb House 018 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7e920d5b-65b0-c311-2fb0-bfea348f915c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Pillar.scene.nasset/Pillar.mesh.nasset/Pillar Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7f3f61fe-0c82-9db6-cb18-9190efbfe9e0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Roadside_Entry.scene.nasset/Roadside Entry.mesh.nasset/Roadside Entry.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7fb1b022-df11-73d9-0f5c-c5eefa3a1673": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossing.scene.nasset/Road Crossing.mesh.nasset/Road Crossing asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "80316ff6-543a-c675-4a8c-58e5cc73c4ec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_05.scene.nasset/Building 05.mesh.nasset/Building 05 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8123b3e6-52ab-0cff-acd1-a5a64e7b9cfa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Crossing.scene.nasset/Road Crossing.mesh.nasset/Road Crossing.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "815f727b-deba-0a9c-b60d-b1f4ad91c6bd": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_02.scene.nasset/SM_Suburb_House_02.scene.nasset"
+    },
+    "823ac2b6-50ef-4007-183d-dbb188389c01": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Straight.scene.nasset/Road Straight.mesh.nasset/Road Straight Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "82ca9520-5226-fc0c-2e77-e39a8b6e2bbd": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Light.mtli.nasset"
+    },
+    "82f4f202-7ef1-bc9f-839c-a5546b7320b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_02.scene.nasset/Building 02.mesh.nasset/Building 02 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "859f77da-c73a-7e81-16ef-d3f5da93bcd9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_08.scene.nasset/Suburb House 08.mesh.nasset/Suburb House 08 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "862a77fa-14a8-8356-5de8-6997cc810155": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Tile_High.scene.nasset/SM_Tile_High.scene.nasset"
+    },
+    "868941b2-209a-9397-d770-54f162cf949f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Driveway_Short.scene.nasset/Driveway Short.mesh.nasset/Driveway Short Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "86f8186d-bdf3-9999-40bd-ddcde8546ba6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_08.scene.nasset/Suburb House 08.mesh.nasset/Suburb House 08 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "876a5747-effa-d9f4-269f-92f998d34971": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_05.scene.nasset/Building 05.mesh.nasset/Building 05 Brick Trim.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "87941cfd-c949-51d0-7d5f-d8ef8818eb3c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Roundabout.scene.nasset/Road Roundabout.mesh.nasset/Road Roundabout Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8860e682-48f7-f028-97e3-d841c86b111a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve_Pavement.scene.nasset/Road Curve Pavement.mesh.nasset/Road Curve Pavement Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "886f8cd7-4756-bd1c-197b-291602cb27d7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_05.scene.nasset/Building 05.mesh.nasset/Building 05 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "88d8e2d9-c18f-e266-3913-e32960dd7811": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Curve_Intersection.scene.nasset/SM_Road_Curve_Intersection.scene.nasset"
+    },
+    "891c216e-0a7e-d8ab-a181-8ba0e0ce875b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_05.scene.nasset/Building 05.mesh.nasset/Building 05 Roof.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "89ce8aa9-bde3-6372-4ac2-639e6b482542": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_016.scene.nasset/Suburb House 016.mesh.nasset/Suburb House 016 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8a1752dd-2762-d627-2518-dc2c619b065f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_02.scene.nasset/Suburb House 02.mesh.nasset/Suburb House 02 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8a44bf5c-9d0a-b38a-7096-107e382cad8b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Construction_Pylon.scene.nasset/Construction Pylon.mesh.nasset/Construction Pylon Cone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8a592edd-8468-91bc-e989-033810c21b0e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Tree.scene.nasset/SM_Tree.scene.nasset"
+    },
+    "8abc86d8-4ab6-a475-1dd4-e16c06be3f84": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Building_05.scene.nasset/Building 05.mesh.nasset/Building 05.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8bba26e1-17da-0ea0-5445-e24201f5f64c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_02.scene.nasset/Suburb House 02.mesh.nasset/Suburb House 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8c2a012f-3cc9-9c9b-4d62-98b6ab703a46": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Fence_Rectangle.scene.nasset/SM_Fence_Rectangle.scene.nasset"
+    },
+    "8c49f503-60f2-ba1d-f0df-0ba59b7e9a85": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Straight_Half.scene.nasset/SM_Road_Straight_Half.scene.nasset"
+    },
+    "8c6633cc-700e-7624-6fae-704eef969355": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Straight.scene.nasset/SM_Road_Straight.scene.nasset"
+    },
+    "8ca3ee7b-ae3a-86fd-361a-f06832cb0923": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_03.scene.nasset/Suburb House 03.mesh.nasset/Suburb House 03 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8d74be89-adb8-0dd8-959c-be7b1347f475": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Wood.mtli.nasset"
+    },
+    "8d767e9e-213a-2a50-d2f4-cd836bfacc17": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Straight.scene.nasset/Road Straight.mesh.nasset/Road Straight Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8dd57b1a-9b0b-10f6-6271-87ee5c198328": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_02.scene.nasset/Building 02.mesh.nasset/Building 02 Roof.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8ddc1b32-646d-d838-5762-5b927003a149": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Entry.scene.nasset/Roadside Entry.mesh.nasset/Roadside Entry Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8ed23747-581f-0fb0-b095-60616e9d0b2b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Construction_Pylon.scene.nasset/Construction Pylon.mesh.nasset/Construction Pylon Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8f3c093c-3a46-e802-0344-8996c452d08c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_013.scene.nasset/Suburb House 013.mesh.nasset/Suburb House 013 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8f748e62-6380-622a-8bc9-f455a467b517": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bridge.scene.nasset/Road Bridge.mesh.nasset/Road Bridge Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8f7858ee-2bfb-6924-8019-0cc2e96dd1fd": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Driveway_Single.scene.nasset/SM_Road_Driveway_Single.scene.nasset"
+    },
+    "8fc078bf-0c4f-bbcc-c0d7-b52c3127b18d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Fence_Open.scene.nasset/SM_Fence_Open.scene.nasset"
+    },
+    "8fd924f0-fc20-751e-59b6-46116ff4af5b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Curve.scene.nasset/Road Slant Curve.mesh.nasset/Road Slant Curve Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8fe2bb49-e719-21b1-f01f-0865cabb37ad": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Driveway_Double_Barrier.scene.nasset/SM_Road_Driveway_Double_Barrier.scene.nasset"
+    },
+    "90308d2e-9070-46e1-5a7e-8fcac4839731": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_017.scene.nasset/SM_Suburb_House_017.scene.nasset"
+    },
+    "90fcdc54-c7c8-75c1-5b73-07faefc9d179": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Intersection.scene.nasset/Road Intersection.mesh.nasset/Road Intersection.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "91567b15-3642-6c00-b545-e489b6337431": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Brick Trim.mtli.nasset"
+    },
+    "916e459d-d14b-bb2e-bbb0-147b577bf473": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Roundabout.scene.nasset/Road Roundabout.mesh.nasset/Road Roundabout Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "91b965d1-48c5-2d4c-e9df-c540a3e26ff2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_07.scene.nasset/Suburb House 07.mesh.nasset/Suburb House 07 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "91cf2566-53a8-da37-97c3-82f61c1f5f54": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_02.scene.nasset/Building 02.mesh.nasset/Building 02 Brick Trim.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "925eb299-570d-04bc-2e78-dc1cc4cb426c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Tree.scene.nasset/Tree.mesh.nasset/Tree.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "930bfff5-a231-200a-ac20-0d1a72cd9310": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_High.scene.nasset/Road Slant High.mesh.nasset/Road Slant High Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "93770340-071d-dabf-3392-45e28f5a6ecc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_Curve.scene.nasset/Road Slant Curve.mesh.nasset/Road Slant Curve.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "949b285f-309e-29bd-782a-7f3030dcf7a7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Crossroad.scene.nasset/SM_Road_Crossroad.scene.nasset"
+    },
+    "950da106-ed9c-3534-66aa-55b42c8542c9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Exit.scene.nasset/Roadside Exit.mesh.nasset/Roadside Exit Line-2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "95398ada-2a33-5efe-ddb5-3c0e3061abe5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Wood Light.mtli.nasset"
+    },
+    "9594f571-9dbb-bef1-e838-6458dc7a1d89": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_020.scene.nasset/Suburb House 020.mesh.nasset/Suburb House 020 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "960e9166-a8cf-12e2-2f90-1ff3dab9f32e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_015.scene.nasset/Suburb House 015.mesh.nasset/Suburb House 015 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "97340b24-2240-4fab-9b03-3c02302145a8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Straight.scene.nasset/Road Straight.mesh.nasset/Road Straight.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "97f29897-807d-3f79-2c74-7a3fb613e028": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bridge.scene.nasset/Road Bridge.mesh.nasset/Road Bridge Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "98692dd4-1267-00bb-761a-8d702409bad0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_02.scene.nasset/Building 02.mesh.nasset/Building 02 Brick.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "986be17b-537d-e655-e8e5-b3a56215f0d8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant.scene.nasset/Road Slant.mesh.nasset/Road Slant asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "989a27ee-ba20-fd14-c431-ae8707e6b8dc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Curve.scene.nasset/Road Slant Curve.mesh.nasset/Road Slant Curve Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "989e88e8-94b8-a758-e63e-c23bc2f74295": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Curve_Intersection_Barrier.scene.nasset/SM_Road_Curve_Intersection_Barrier.scene.nasset"
+    },
+    "9925b04b-f329-b9ae-ceaf-806ab2772d8d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve_Intersection.scene.nasset/Road Curve Intersection.mesh.nasset/Road Curve Intersection asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9b12010c-1d66-6a88-b017-ee6b3fd66f6d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Pillar.scene.nasset/SM_Pillar.scene.nasset"
+    },
+    "9c82285d-2b0f-0436-e29e-08ea174538f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_Flat.scene.nasset/Road Slant Flat.mesh.nasset/Road Slant Flat.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9cc80a28-07ae-d3a9-6a27-4ac424d1043d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_Flat_High.scene.nasset/Road Slant Flat High.mesh.nasset/Road Slant Flat High.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9cd28ddd-cab3-fa81-8384-ca5d3ea35cbb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat_High.scene.nasset/Road Slant Flat High.mesh.nasset/Road Slant Flat High Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9ceec728-cc66-bdb5-09a1-8aba707993d7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Building_05.scene.nasset/SM_Building_05.scene.nasset"
+    },
+    "9dbc19ea-ccfa-91c7-0dd2-412131738467": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Entry.scene.nasset/Roadside Entry.mesh.nasset/Roadside Entry Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9e2029e5-9ecc-1d54-7cdc-0d0f44cba3f7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Fence_Large.scene.nasset/SM_Fence_Large.scene.nasset"
+    },
+    "9e6d5928-23e8-762d-db59-58232c8fd6eb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Building_Small_01.scene.nasset/Building Small 01.mesh.nasset/Building Small 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9e83dbe8-7bf9-f2a1-8ef2-5fdbe77570cd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_04.scene.nasset/Building 04.mesh.nasset/Building 04 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9ecb53fb-c534-e442-862c-d3aa4fc653bb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_012.scene.nasset/Suburb House 012.mesh.nasset/Suburb House 012 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9ee8bf0f-f6b3-442b-5b2c-93b6de2f7384": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad.scene.nasset/Road Crossroad.mesh.nasset/Road Crossroad Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a07fb17c-1987-1e97-8c70-3b8008e103b5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Cone.mtli.nasset"
+    },
+    "a091a700-beea-8ecb-5116-bb70374aa346": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend_Sidewalk.scene.nasset/Road Bend Sidewalk.mesh.nasset/Road Bend Sidewalk Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a0cce162-0f32-91e6-ec49-b287206244b9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Slant_High.scene.nasset/SM_Road_Slant_High.scene.nasset"
+    },
+    "a14e8118-3469-4442-36e0-3b99cb2291d2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Driveway_Single.scene.nasset/Road Driveway Single.mesh.nasset/Road Driveway Single Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a17a84fe-6001-f98e-8641-f1ba3fed9555": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Exit.scene.nasset/Roadside Exit.mesh.nasset/Roadside Exit asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a1f302ca-d914-b421-df01-40a51843f2e5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Driveway_Single.scene.nasset/Road Driveway Single.mesh.nasset/Road Driveway Single Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a2714823-8c01-1ead-659e-61560e9a19c3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Curved.scene.nasset/Light Curved.mesh.nasset/Light Curved Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a370a53c-5332-8853-6195-b4635b3ea17b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Path_Long.scene.nasset/Path Long.mesh.nasset/Path Long Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a37c3a1d-7f7a-3698-5ccd-1ba8ac153b18": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Straight_Barrier.scene.nasset/SM_Road_Straight_Barrier.scene.nasset"
+    },
+    "a3c3fc2b-84e8-780b-fbae-b58842c27ac7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bridge.scene.nasset/Road Bridge.mesh.nasset/Road Bridge Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a4503c37-3350-f120-a160-dad16a0ed0b5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_014.scene.nasset/SM_Suburb_House_014.scene.nasset"
+    },
+    "a4c0c10b-a7da-a003-70e6-7e9d0119cd68": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House.scene.nasset/Suburb House.mesh.nasset/Suburb House Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a54c9020-12cc-5645-9761-34a2734cf7c1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Driveway_Single_Barrier.scene.nasset/SM_Road_Driveway_Single_Barrier.scene.nasset"
+    },
+    "a5720468-59c4-e7a1-b130-3ee7b4b2e4d2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_09.scene.nasset/Suburb House 09.mesh.nasset/Suburb House 09 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a57ef06e-2be2-64a4-0c39-2630a0739709": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_04.scene.nasset/Building 04.mesh.nasset/Building 04 Brick Trim.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a5c3fe1f-f975-dbc7-d4e9-61e8474552bd": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Pillar_Wide.scene.nasset/SM_Pillar_Wide.scene.nasset"
+    },
+    "a5c736a0-5134-6d27-8880-87865547fe54": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_06.scene.nasset/Suburb House 06.mesh.nasset/Suburb House 06 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a5d5d66c-ccbd-e328-71c3-81e73abc0fb2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_06.scene.nasset/Suburb House 06.mesh.nasset/Suburb House 06 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a5d9c12f-1e0f-8ad1-1292-410b7ba6d034": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Driveway_Single.scene.nasset/Road Driveway Single.mesh.nasset/Road Driveway Single Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a604615a-c163-85c7-fcee-587ecd21c0d3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_015.scene.nasset/Suburb House 015.mesh.nasset/Suburb House 015.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a6e8b812-86ee-20ce-4d85-fe4a3ec07690": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_Skybox.tex.nasset"
+    },
+    "a71ea6fa-fc42-5a9c-9ed3-bd5f5c2240ef": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_010.scene.nasset/SM_Suburb_House_010.scene.nasset"
+    },
+    "a741dd4f-fa04-b208-86d4-becb96638a15": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Fence_Medium.scene.nasset/SM_Fence_Medium.mesh.nasset"
+    },
+    "a859965b-01c2-416f-b917-26b7aa9b73c6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_013.scene.nasset/Suburb House 013.mesh.nasset/Suburb House 013.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a8fadea7-b24e-d5d4-fd12-0a6b36a5006e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve.scene.nasset/Road Curve.mesh.nasset/Road Curve Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a910f8c3-77f3-fb3f-5f24-57e000127644": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_06.scene.nasset/Suburb House 06.mesh.nasset/Suburb House 06 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a92fbdff-d2cd-0544-452f-eec674ed9fc3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad.scene.nasset/Road Crossroad.mesh.nasset/Road Crossroad Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a9849057-3400-6751-5bef-6bdfb73eb05a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_06.scene.nasset/Suburb House 06.mesh.nasset/Suburb House 06.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a9c72a67-b55c-2c40-9260-b43f92eee662": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Path_Long.scene.nasset/Path Long.mesh.nasset/Path Long.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "aa07a0f7-05ff-8099-2673-461b2735de1a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_014.scene.nasset/Suburb House 014.mesh.nasset/Suburb House 014 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "aa717df7-2a73-127c-3c27-82009f9ac0c1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_014.scene.nasset/Suburb House 014.mesh.nasset/Suburb House 014 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ac1c1f97-0d08-8104-6173-59dbbca72828": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_01.scene.nasset/SM_Suburb_House_01.scene.nasset"
+    },
+    "ac7dc49a-d952-e599-17bc-8eb312e15687": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_010.scene.nasset/Suburb House 010.mesh.nasset/Suburb House 010 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ad620780-d504-fd70-34c3-b0cd0136b50e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside.scene.nasset/Roadside.mesh.nasset/Roadside Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ae0a7c8b-c27d-9ae8-066a-aea99bac2a89": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat_High.scene.nasset/Road Slant Flat High.mesh.nasset/Road Slant Flat High Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ae4af516-1a0f-3fa2-d655-091f631dde89": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Curve.scene.nasset/Road Curve.mesh.nasset/Road Curve.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "aeb1a4cf-3d53-c843-45fd-ba3998df8fa7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Curved_Cross.scene.nasset/Light Curved Cross.mesh.nasset/Light Curved Cross Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "aed24ab6-02e7-746d-64c2-2cfdb805d33e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Path_Tiles_Long.scene.nasset/Path Tiles Long.mesh.nasset/Path Tiles Long.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "aef61a8d-eeb8-62e8-779b-44b5ffc82682": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_05.scene.nasset/Suburb House 05.mesh.nasset/Suburb House 05 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "af066f6f-1506-994a-4989-28c9d02244c3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_04.scene.nasset/Building 04.mesh.nasset/Building 04 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "af61bb0d-b7de-ad9f-482a-43ad8ea40d4a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat_Curve.scene.nasset/Road Slant Flat Curve.mesh.nasset/Road Slant Flat Curve Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b0191152-fea5-777d-eb49-c74a073cdb04": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Roadside_Exit_Barrier.scene.nasset/SM_Roadside_Exit_Barrier.scene.nasset"
+    },
+    "b1103013-8920-3ccc-a22e-71e9b63cec4b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Path_Long.scene.nasset/SM_Path_Long.scene.nasset"
+    },
+    "b1ab28a7-e8a9-a954-895b-cfe7c5b52f0e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection_Path.scene.nasset/Road Intersection Path.mesh.nasset/Road Intersection Path asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b1d5919e-b2f9-72e9-79b4-e6c5489a8c9e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_05.scene.nasset/Suburb House 05.mesh.nasset/Suburb House 05 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b2054c1a-6034-a760-8524-cea9c04472f8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad_Path.scene.nasset/Road Crossroad Path.mesh.nasset/Road Crossroad Path Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b21fedff-8ec2-7d3b-59fc-0fe05585c2e2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Bend_Sidewalk.scene.nasset/SM_Road_Bend_Sidewalk.scene.nasset"
+    },
+    "b2f44fa7-9ef9-4958-90c0-a9c845bb0954": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House.scene.nasset/Suburb House.mesh.nasset/Suburb House Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b4ab5da9-0efe-16b0-0418-d743ad112694": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Tree_LG.scene.nasset/Tree LG.mesh.nasset/Tree LG Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b53530ad-3e13-dfe6-c3a3-b31aa10bd575": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Split.scene.nasset/Road Split.mesh.nasset/Road Split.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b5441164-3bed-989d-44a7-208717ae44dc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Border.mtli.nasset"
+    },
+    "b5da69a6-7842-ea3c-1eac-4431e5129f5a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_015.scene.nasset/SM_Suburb_House_015.scene.nasset"
+    },
+    "b6817557-4d30-954f-57fa-6de0166f4336": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat_Curve.scene.nasset/Road Slant Flat Curve.mesh.nasset/Road Slant Flat Curve Default-2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b6982d52-de5d-74b4-3a45-12c56f951096": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Fence_Open.scene.nasset/SM_Fence_Open.mesh.nasset"
+    },
+    "b705090d-cdca-41ba-01ce-e4cffd4a4456": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Driveway_Double.scene.nasset/SM_Road_Driveway_Double.scene.nasset"
+    },
+    "b75c1b38-e0c9-2e76-8c6c-f826bf30d1d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant.scene.nasset/Road Slant.mesh.nasset/Road Slant Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b7d76c6e-250e-46dc-6e94-266d0bc2576c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Square_Barrier.scene.nasset/SM_Road_Square_Barrier.scene.nasset"
+    },
+    "b7eaf241-23a1-5557-6262-daaeb4067d45": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_017.scene.nasset/Suburb House 017.mesh.nasset/Suburb House 017.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b7ebb850-fe0f-5fca-88fe-f565d3789245": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Pavement 02.mtli.nasset"
+    },
+    "b80d1283-ebc1-c6bc-7876-3ca82b799733": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Split_Barrier.scene.nasset/SM_Road_Split_Barrier.scene.nasset"
+    },
+    "b8665902-650a-44a0-37c3-73baa0aac252": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad_Line.scene.nasset/Road Crossroad Line.mesh.nasset/Road Crossroad Line Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b99dcfb6-9957-3c5d-f213-9ff4a025d879": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend.scene.nasset/Road Bend.mesh.nasset/Road Bend asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b9efb6ae-86c7-9506-6a7e-9ee01da860a1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House.scene.nasset/Suburb House.mesh.nasset/Suburb House Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "baad25ca-28e8-c8fb-0311-bfe66b1c417f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_02.scene.nasset/Building 02.mesh.nasset/Building 02 Front.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bb5132a7-0fa1-e192-cfda-74e4c7768326": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Tile_Slant.scene.nasset/SM_Tile_Slant.scene.nasset"
+    },
+    "bb6649d0-788f-bf89-a929-1761b2ca31d6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_015.scene.nasset/Suburb House 015.mesh.nasset/Suburb House 015 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bb802302-c29d-0d0a-b321-b9172c402542": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat.scene.nasset/Road Slant Flat.mesh.nasset/Road Slant Flat asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bbff8e61-17ac-98fe-1a45-fdff6ec8e21f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Curve.scene.nasset/Road Slant Curve.mesh.nasset/Road Slant Curve asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bc3cc237-2fff-c526-30f5-65305a9a5178": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Building_Small_01.scene.nasset/SM_Building_Small_01.scene.nasset"
+    },
+    "bc41a1e0-2f78-135a-9d0d-c28ee660044d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Crossing.scene.nasset/SM_Road_Crossing.scene.nasset"
+    },
+    "bcf02e59-9622-5f74-5549-f83a4592c19d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Square.scene.nasset/Road Square.mesh.nasset/Road Square Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bd0f5ebc-006a-b7ec-cdd3-99a083d4fb88": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_08.scene.nasset/SM_Suburb_House_08.scene.nasset"
+    },
+    "bd43be57-c677-7772-9091-a80038f66ee3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Light_Square_Double.scene.nasset/SM_Light_Square_Double.scene.nasset"
+    },
+    "bdc2f98b-a7c8-ace0-4c55-990d704a2542": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside.scene.nasset/Roadside.mesh.nasset/Roadside Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "be645f18-75e1-db94-64f5-7bea651a6d54": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Path_Tiles_Short.scene.nasset/SM_Path_Tiles_Short.scene.nasset"
+    },
+    "bf380b93-3406-2b5e-c79c-a0978da7fdad": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Intersection_Path.scene.nasset/SM_Road_Intersection_Path.scene.nasset"
+    },
+    "bfe92202-c19f-ac3c-b3c2-8637eed82a48": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_End_Barrier.scene.nasset/SM_Road_End_Barrier.mesh.nasset"
+    },
+    "c1a818da-fdac-039d-c9fc-0c43d3d22f27": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend_Sidewalk.scene.nasset/Road Bend Sidewalk.mesh.nasset/Road Bend Sidewalk Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c2940fa0-88d1-e650-7003-f9e85ffe8c39": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Mindkraft_Enviro.tex.nasset"
+    },
+    "c394f9c2-afc4-3c81-240e-ad6c8746950a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Roadside_Entry_Barrier.scene.nasset/SM_Roadside_Entry_Barrier.scene.nasset"
+    },
+    "c39f265b-64e1-dff4-bfe1-b843956137f7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Square_Cross.scene.nasset/Light Square Cross.mesh.nasset/Light Square Cross Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c3b5e94a-b69e-caca-9c37-a43957992fc5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Bend_Sidewalk.scene.nasset/Road Bend Sidewalk.mesh.nasset/Road Bend Sidewalk.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c3cc771f-f48f-8b71-bf98-334e23bdc374": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Tree_LG.scene.nasset/Tree LG.mesh.nasset/Tree LG.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c507e5eb-82f2-4d7e-ec95-fb9f7277a13c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection.scene.nasset/Road Intersection.mesh.nasset/Road Intersection Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c5b47e76-5e46-5417-0f7c-b5400755e665": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Crossroad_Path.scene.nasset/SM_Road_Crossroad_Path.scene.nasset"
+    },
+    "c6198fe7-b685-ce32-45c5-7d26574726f3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_020.scene.nasset/Suburb House 020.mesh.nasset/Suburb House 020 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c65204cc-3f30-5711-5045-1e285d06f147": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_017.scene.nasset/Suburb House 017.mesh.nasset/Suburb House 017 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c6bc19e7-bf71-8ddf-ca5b-619d072be68a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Pillar.scene.nasset/Pillar.mesh.nasset/Pillar.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c8aa3331-8b03-fc8d-7778-fffee583ceaa": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Curve.scene.nasset/SM_Road_Curve.scene.nasset"
+    },
+    "c8c7a571-0fd2-db23-bd14-4270c9feeb5a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_013.scene.nasset/Suburb House 013.mesh.nasset/Suburb House 013 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c8f53fbd-6a63-58f7-36b1-cd5ee5d9c300": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Exit.scene.nasset/Roadside Exit.mesh.nasset/Roadside Exit Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c9b090d0-b4bd-5090-bbed-0f8aad9d5462": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Intersection_Line.scene.nasset/Road Intersection Line.mesh.nasset/Road Intersection Line.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ca200c01-6aef-4f04-949c-567b6e878422": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "thumbnail": "782a0628-a838-40cf-9272-29cd4a7ab90a"
+    },
+    "cb4da26c-09ea-934f-4eb3-df220f3552ce": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Roadside.scene.nasset/Roadside.mesh.nasset/Roadside.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "cbcc1836-4592-fb3c-edb1-d94b1056b2cc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat.scene.nasset/Road Slant Flat.mesh.nasset/Road Slant Flat Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cd39a749-5ee1-2667-e2e8-86c16492ab69": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_014.scene.nasset/Suburb House 014.mesh.nasset/Suburb House 014 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ce2c5a54-bc1b-7e6a-012f-cce76ba463e0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_02.scene.nasset/Suburb House 02.mesh.nasset/Suburb House 02 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ce76c690-c32c-3366-ea8a-865521b7043e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_Small_02.scene.nasset/Building Small 02.mesh.nasset/Building Small 02 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cf34c899-3b08-69e3-e7a0-9e9194057d18": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Driveway_Long.scene.nasset/Driveway Long.mesh.nasset/Driveway Long Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cfaca039-77c3-e377-9119-ede4ef908816": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Path_Short.scene.nasset/SM_Path_Short.scene.nasset"
+    },
+    "d0343c39-8987-ea92-3967-ad21f063eb36": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_09.scene.nasset/Suburb House 09.mesh.nasset/Suburb House 09 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d0cabec8-af63-222f-fc7a-b2c174a0c803": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House.scene.nasset/SM_Suburb_House.scene.nasset"
+    },
+    "d0f1535f-2f33-a9ab-4209-9d86e993d07e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Building_04.scene.nasset/SM_Building_04.scene.nasset"
+    },
+    "d17df9f0-f585-b44a-06ba-d33d37a83d19": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_Small_02.scene.nasset/Building Small 02.mesh.nasset/Building Small 02 Brick.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d4520aff-2d24-cde3-c3fa-308226b3223e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Path_Short.scene.nasset/Path Short.mesh.nasset/Path Short Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d4bb2d7d-9771-e958-fb93-231d423744fe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Light_Square_Double.scene.nasset/Light Square Double.mesh.nasset/Light Square Double Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d4ce8970-0c6d-1e16-58dc-5ad0bd50d275": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_09.scene.nasset/Suburb House 09.mesh.nasset/Suburb House 09 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d67a6a9d-6b62-0ada-ab00-094b8b8972e4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Intersection_Line.scene.nasset/SM_Road_Intersection_Line.scene.nasset"
+    },
+    "d6ad7d7f-c3ef-d378-b1eb-eb0725cde1d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_07.scene.nasset/Suburb House 07.mesh.nasset/Suburb House 07 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d6cb95b9-85b6-fb65-7cb1-bdc29a0c40dd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad_Line.scene.nasset/Road Crossroad Line.mesh.nasset/Road Crossroad Line Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d73945f1-ce0a-18ec-873e-abac3e565dcd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve_Pavement.scene.nasset/Road Curve Pavement.mesh.nasset/Road Curve Pavement Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d7bac4e1-a10d-2fb3-5aa1-e770ef2a6b37": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection.scene.nasset/Road Intersection.mesh.nasset/Road Intersection Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d924639c-8287-4c60-ecfc-47c18986c162": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Curve_Barrier.scene.nasset/SM_Road_Curve_Barrier.scene.nasset"
+    },
+    "d9fa4ff1-8968-23db-8e67-77642cb4d88e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Mindkraft_EnviroDiffuse.tex.nasset"
+    },
+    "da078aa9-7ac9-2f15-6746-4acc28da593e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve_Intersection_Barrier.scene.nasset/SM_Road_Curve_Intersection_Barrier.mesh.nasset"
+    },
+    "daf89980-9de0-2cfd-9a9d-c64840053eae": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Window.mtli.nasset"
+    },
+    "db5dfed2-ea77-baf7-ed33-f030eab6aa55": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve_Intersection.scene.nasset/Road Curve Intersection.mesh.nasset/Road Curve Intersection Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "dbbfc15e-770c-5505-5a07-1ffd0ce1d56e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_09.scene.nasset/Suburb House 09.mesh.nasset/Suburb House 09 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "dbd45df7-182d-bba0-118c-ae3db2da98ab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_End_Barrier.scene.nasset/SM_Road_End_Barrier.scene.nasset"
+    },
+    "dcd3b5eb-494b-42d4-653f-0c98fe9ab6ca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Fence_Small.scene.nasset/SM_Fence_Small.scene.nasset"
+    },
+    "dd1da97a-7ed1-6f08-8588-82f276a9f0b4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_04.scene.nasset/Suburb House 04.mesh.nasset/Suburb House 04 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "dd4615e7-824d-1d44-73c6-ebe32ecec9cd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_016.scene.nasset/Suburb House 016.mesh.nasset/Suburb House 016 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ddcb90ae-d2db-adef-34e9-a73c6797a8f9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_02.scene.nasset/Building 02.mesh.nasset/Building 02 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "decde767-2f56-4ec3-130a-383f4ecedee1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Straight_Half.scene.nasset/Road Straight Half.mesh.nasset/Road Straight Half asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "df0ccb9d-0baa-63ab-acc1-89542e18709a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Roundabout.scene.nasset/SM_Road_Roundabout.scene.nasset"
+    },
+    "df331d67-5f2e-04cf-d52b-54b3438c62bd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossing.scene.nasset/Road Crossing.mesh.nasset/Road Crossing Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "df513d12-dd85-6683-155d-4d51ee75fd0f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend_Square.scene.nasset/Road Bend Square.mesh.nasset/Road Bend Square asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "df7cef8a-0ef7-b3c8-3798-f6be2a9cf9df": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Brick.mtli.nasset"
+    },
+    "dfa05f9c-b899-d2f1-59a4-cedd8c0da456": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Intersection.scene.nasset/SM_Road_Intersection.scene.nasset"
+    },
+    "e07e7c47-144c-7fb8-63e7-0d843fc68ff8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_01.scene.nasset/Building 01.mesh.nasset/Building 01 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e2242e82-1ff9-dbb0-8e17-496a8271076d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Path_Tiles_Short.scene.nasset/Path Tiles Short.mesh.nasset/Path Tiles Short Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e2488701-df26-987a-b66e-bc4ab2025ae8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Bridge.scene.nasset/Road Bridge.mesh.nasset/Road Bridge.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e299bb03-d884-81d5-b9de-9a1a40b08055": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Light_Square.scene.nasset/Light Square.mesh.nasset/Light Square.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e2c171ea-c0a6-c0d9-2e74-b31a151ec0e5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_09.scene.nasset/Suburb House 09.mesh.nasset/Suburb House 09 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e30cd13d-3742-641a-086f-21e605649277": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Straight_Half.scene.nasset/Road Straight Half.mesh.nasset/Road Straight Half.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e3789680-b04d-1b39-36af-e4d30f7318f9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_05.scene.nasset/Suburb House 05.mesh.nasset/Suburb House 05.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e4b7d183-03ad-2903-2b81-a25621f36de8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection_Line.scene.nasset/Road Intersection Line.mesh.nasset/Road Intersection Line Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e635358f-d166-b990-d276-9b092fb8ff8c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Driveway_Long.scene.nasset/Driveway Long.mesh.nasset/Driveway Long.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e686ecd5-aae5-1e74-6ef9-b5a28e2972c1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_011.scene.nasset/SM_Suburb_House_011.scene.nasset"
+    },
+    "e72268d9-c2f4-801e-421a-e713232ec19a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Light_Square_Double.scene.nasset/Light Square Double.mesh.nasset/Light Square Double.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e75d2338-a9de-02b6-6767-976e0afc876d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_012.scene.nasset/Suburb House 012.mesh.nasset/Suburb House 012 Siding.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e7ad23f6-c6a8-10cf-7408-bb19337c1630": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Entry_Barrier.scene.nasset/SM_Roadside_Entry_Barrier.mesh.nasset"
+    },
+    "e8115987-a91f-476e-6c8f-4e7ccd4d8c3b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend_Square_Barrier.scene.nasset/SM_Road_Bend_Square_Barrier.mesh.nasset"
+    },
+    "e8c682d6-76af-b897-44d6-ff1f115daa76": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection.scene.nasset/Road Intersection.mesh.nasset/Road Intersection asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e913c036-8730-b953-ba9d-d74a6c902c2d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Tree_LG.scene.nasset/SM_Tree_LG.scene.nasset"
+    },
+    "ea0d4bd6-b989-7474-1900-776c6b5e3d80": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Square.scene.nasset/Road Square.mesh.nasset/Road Square asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ea5067dc-042a-e5d1-7d34-3a5389f89bf8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Straight_Barrier.scene.nasset/SM_Road_Straight_Barrier.mesh.nasset"
+    },
+    "eae27ac7-2c47-0651-8486-94909040a35a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat_High.scene.nasset/Road Slant Flat High.mesh.nasset/Road Slant Flat High Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "eae86762-254d-b4e2-bb9e-3e41a2f2f44f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_08.scene.nasset/Suburb House 08.mesh.nasset/Suburb House 08 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ebbdf651-644f-401d-599e-e5b8a6834e38": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Construction_Barrier.scene.nasset/SM_Construction_Barrier.mesh.nasset"
+    },
+    "ebf99b74-f6d8-3044-e948-74f06cdbfb2c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Straight_Half.scene.nasset/Road Straight Half.mesh.nasset/Road Straight Half Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ec61ce86-4af1-f958-fb4a-93227b7334c1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_017.scene.nasset/Suburb House 017.mesh.nasset/Suburb House 017 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ec7dd9b6-8477-9948-191d-d8259cf063ad": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve_Intersection.scene.nasset/Road Curve Intersection.mesh.nasset/Road Curve Intersection Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ecd8cd64-ebc2-459b-1c02-59bedc110b68": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Straight_Barrier_End.scene.nasset/SM_Road_Straight_Barrier_End.mesh.nasset"
+    },
+    "ecdc98c8-3c7a-9259-e37d-2303da10ceb4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Driveway_Single.scene.nasset/Road Driveway Single.mesh.nasset/Road Driveway Single.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ece055d7-9101-b436-a7ac-7a1caa2cf3f7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Split.scene.nasset/Road Split.mesh.nasset/Road Split Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ecef8a72-043e-423a-4534-56abc662d3a8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Roadside_Barrier.scene.nasset/SM_Roadside_Barrier.scene.nasset"
+    },
+    "ecf4e2a3-f03c-c671-f650-c18d8443586c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_06.scene.nasset/Suburb House 06.mesh.nasset/Suburb House 06 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ed4e1afc-322d-0b81-9abf-da670de95516": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_07.scene.nasset/Suburb House 07.mesh.nasset/Suburb House 07 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ed7cff4f-babf-ff12-ff09-3128f80d5424": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant_Flat_Curve.scene.nasset/Road Slant Flat Curve.mesh.nasset/Road Slant Flat Curve Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "eee640ab-17f1-35f0-2979-ebc636386373": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection_Path.scene.nasset/Road Intersection Path.mesh.nasset/Road Intersection Path Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "eff39d39-7a99-c8fd-d293-c0332c887b5c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_02.scene.nasset/Suburb House 02.mesh.nasset/Suburb House 02 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f06f8862-a096-2749-7428-764e7f3d0862": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_Small_01.scene.nasset/Building Small 01.mesh.nasset/Building Small 01 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f077d972-23bb-06cd-273e-6f8b14dac7cf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_07.scene.nasset/Suburb House 07.mesh.nasset/Suburb House 07 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f0c9f469-051d-e623-b2f6-fbe45638b5be": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_End.scene.nasset/SM_Road_End.scene.nasset"
+    },
+    "f0ed9edd-4172-bdee-c6a6-f9409c6ec299": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Green.mtli.nasset"
+    },
+    "f15a098e-cd2c-4291-a26b-0714ac1bf848": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_End.scene.nasset/Road End.mesh.nasset/Road End.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f1b4ec58-08d4-94a5-6ae0-cef95f871364": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Straight_Half.scene.nasset/Road Straight Half.mesh.nasset/Road Straight Half Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f1d8510b-4600-ec15-2212-2d8b5f529511": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Slant.scene.nasset/Road Slant.mesh.nasset/Road Slant Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f215998f-a286-8a7c-adce-2ab25500ac4d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Tree_LG.scene.nasset/Tree LG.mesh.nasset/Tree LG Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f2997eaf-272a-c66b-a995-c74b5377577f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Curve_Pavement.scene.nasset/Road Curve Pavement.mesh.nasset/Road Curve Pavement.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f30aa780-28f9-09f1-4b2a-82ccd40f5fc4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_03.scene.nasset/SM_Suburb_House_03.scene.nasset"
+    },
+    "f38db8aa-1c2b-095d-2e6a-b8735bdacdd5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Tree.scene.nasset/Tree.mesh.nasset/Tree Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f414a4ba-d3ee-186a-ff65-26aa50ebbe7b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/asphaltEdge.mtli.nasset"
+    },
+    "f44af6eb-9cbd-4967-3730-912a26b30496": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_014.scene.nasset/Suburb House 014.mesh.nasset/Suburb House 014.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f46e2f10-106c-0328-d0a5-bf3a6a075bf1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_019.scene.nasset/Suburb House 019.mesh.nasset/Suburb House 019.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f48a0179-bef4-a8e0-8a0f-8b7dd5af70b6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Path_Tiles_Short.scene.nasset/Path Tiles Short.mesh.nasset/Path Tiles Short Pavement 02.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f53899fc-fc72-48e6-2707-dc53503cfec2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Building_Small_01.scene.nasset/Building Small 01.mesh.nasset/Building Small 01 Brick.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f5749155-a0c0-653f-8a77-beeca340e5da": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_End.scene.nasset/Road End.mesh.nasset/Road End asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f5836ac7-0a1b-85a5-8646-88b20ff55802": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_011.scene.nasset/Suburb House 011.mesh.nasset/Suburb House 011 Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f62eb3bf-c1a4-ffae-1442-ed1f6fe5fcc8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_07.scene.nasset/Suburb House 07.mesh.nasset/Suburb House 07 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f63f0dc6-1351-eb1c-eb8e-c1a711de239b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Bend_Barrier.scene.nasset/SM_Road_Bend_Barrier.scene.nasset"
+    },
+    "f6c19035-ee61-b70a-a3ac-cc662a4ca908": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve.scene.nasset/Road Curve.mesh.nasset/Road Curve Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f74cc810-b579-5b40-630c-598d7b25ff62": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Roundabout.scene.nasset/Road Roundabout.mesh.nasset/Road Roundabout Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f75b6263-3383-63fb-7933-96515f4cdd44": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Road_Intersection_Path.scene.nasset/Road Intersection Path.mesh.nasset/Road Intersection Path.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f7c51ac1-2548-825b-a308-8e30697047de": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Straight_Half_Barrier.scene.nasset/SM_Road_Straight_Half_Barrier.mesh.nasset"
+    },
+    "f8168c9d-ab2b-c567-85e1-488c432c9231": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_03.scene.nasset/Suburb House 03.mesh.nasset/Suburb House 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f828faf4-b61f-113e-bd6f-7e0a599fa55e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Bend.scene.nasset/Road Bend.mesh.nasset/Road Bend Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f9162758-b3d4-12e4-356c-7ad6385c9b01": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Driveway_Double_Barrier.scene.nasset/SM_Road_Driveway_Double_Barrier.mesh.nasset"
+    },
+    "f919aa89-faa6-72ea-ceaf-04d6b65f1080": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_017.scene.nasset/Suburb House 017.mesh.nasset/Suburb House 017 Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f9879a10-32f3-3205-7f01-400fb82f5d3d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_05.scene.nasset/SM_Suburb_House_05.scene.nasset"
+    },
+    "fa35518c-7ce7-bf01-e3c1-b6f5afa546b8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_013.scene.nasset/Suburb House 013.mesh.nasset/Suburb House 013 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fa675c6e-9630-d261-49ee-1a09f3fa7392": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Light_Curved.scene.nasset/SM_Light_Curved.scene.nasset"
+    },
+    "fb2042fd-57e0-35fd-55ab-e9a3b3205331": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Roadside_Exit.scene.nasset/Roadside Exit.mesh.nasset/Roadside Exit Line.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fb9bdc75-b49d-5808-dc0a-5aaf6824c1c7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Light_Curved_Cross.scene.nasset/Light Curved Cross.mesh.nasset/Light Curved Cross.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fbc920b6-8f8e-eb2e-a158-b7d157b7e4a6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Curve_Intersection.scene.nasset/Road Curve Intersection.mesh.nasset/Road Curve Intersection Pavement.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fc28e799-6ee9-b4c0-6d1e-61b661c21c7a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossing.scene.nasset/Road Crossing.mesh.nasset/Road Crossing Asphalt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fe257031-604e-5348-5df6-1f71154279f0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Intersection_Barrier.scene.nasset/SM_Road_Intersection_Barrier.mesh.nasset"
+    },
+    "fe9d4d78-60f9-f730-e467-331bf9318967": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_04.scene.nasset/Suburb House 04.mesh.nasset/Suburb House 04 Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fec8836b-866b-9ee1-3248-82a9a660b5b7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Suburb_House_017.scene.nasset/Suburb House 017.mesh.nasset/Suburb House 017 Roof Houses.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fedd9d2c-870a-9461-f935-5ca18f5ebf86": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SM_Suburb_House_06.scene.nasset/SM_Suburb_House_06.scene.nasset"
+    },
+    "ff2e9227-cd2b-c2fc-7320-136994744fbc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SM_Road_Crossroad.scene.nasset/Road Crossroad.mesh.nasset/Road Crossroad asphaltEdge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    }
+}

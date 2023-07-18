@@ -254,6 +254,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "13191645-ce7e-3c60-3e88-9633155a7675": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/City_Slackers_EnviroSpecular.tex.nasset"
+    },
     "13a17cbb-7fb0-5556-e8da-070897a5b53d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Metal.mtli.nasset"
@@ -1740,6 +1744,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
+        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
+        "path": "Assets/Physical Materials/Box.physmat.nasset"
+    },
     "6fbfca97-ad51-5090-edd5-1cacbc005a80": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1793,6 +1801,10 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SM_Road_Bend_Square.scene.nasset/SM_Road_Bend_Square.scene.nasset"
+    },
+    "75532648-4757-ea88-2b94-4c6a045dc86d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/City_Slackers_EnviroDiffuse.tex.nasset"
     },
     "78080fbf-d823-09cb-7e00-bf03142e80e0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2222,6 +2234,10 @@
     "91567b15-3642-6c00-b545-e489b6337431": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Brick Trim.mtli.nasset"
+    },
+    "91630912-d434-e840-750a-4605d0bd1796": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/City_Slackers_Enviro.tex.nasset"
     },
     "916e459d-d14b-bb2e-bbb0-147b577bf473": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3846,5 +3862,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    }
+    },
+    "guid": "1600fce7-ba12-a6ef-fbbd-4262e76b9e15"
 }

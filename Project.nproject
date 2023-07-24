@@ -1,7 +1,7 @@
 {
     "name": "City Slackers",
     "guid": "ca200c01-6aef-4f04-949c-567b6e878422",
-    "database_guid": "0f78c687-0584-4c89-9571-3a0cb870c517",
+    "database_guid": "1600fce7-ba12-a6ef-fbbd-4262e76b9e15",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,7 +12,7 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "782a0628-a838-40cf-9272-29cd4a7ab90a",
+    "thumbnail_guid": "c88166c7-25f8-6373-ccd6-94710d49cec0",
     "default_scene": "15a76521-c1b9-4afd-ae51-0aa0a8087549",
     "source": "Project.nproject",
 	"settings": {
